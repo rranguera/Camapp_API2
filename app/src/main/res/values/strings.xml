@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="intro_message">PDT 1</string>
+    <string name="request_permission">PDT 2</string>
+    <string name="camera_error">PDT 3</string>
+
+
+    <string name="app_name">Camapp_API2</string>
+    <string name="title_home">Info</string>
+    <string name="title_dashboard">Galeria</string>
+    <string name="title_notifications">Cam</string>
+
+    <string name="description_info">PDT - la la laaaaa</string>
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
