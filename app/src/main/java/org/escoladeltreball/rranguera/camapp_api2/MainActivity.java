@@ -21,6 +21,7 @@ public class MainActivity extends Base {
         public boolean onNavigationItemSelected(@NonNull MenuItem item) {
 
             switch (item.getItemId()) {
+
                 case R.id.navigation_1:
                     mTextMessage.setText(R.string.title_home);
                     return true;
@@ -54,6 +55,7 @@ public class MainActivity extends Base {
         setContentView(R.layout.activity_main);
 
         mTextMessage = (TextView) findViewById(R.id.message);
+
         BottomNavigationView navigation = (BottomNavigationView) findViewById(R.id.navigation);
         navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener);
     }

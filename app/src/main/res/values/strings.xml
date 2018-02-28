@@ -10,7 +10,15 @@
     <string name="title_dashboard">Galeria</string>
     <string name="title_notifications">Cam</string>
 
-    <string name="description_info">PDT - la la laaaaa</string>
+    <string name="description_info">
+        <![CDATA[
+
+            (*)PATH on es desa la foto (de la mem int: /storage/emulated/0/):
+            \n
+            \n/Android/data/org.escoladeltreball.rranguera.camapp_api2/files/pic.jpg
+
+        ]]>
+    </string>
 
 
 
